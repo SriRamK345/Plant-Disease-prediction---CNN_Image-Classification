@@ -1,0 +1,1 @@
+# Plant-Disease-prediction---CNN_Image-Classification
